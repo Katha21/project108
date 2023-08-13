@@ -1,0 +1,36 @@
+body{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    background-color: rgb(236, 178, 158);
+}
+
+.header_div{
+    background-color: rgb(250, 180, 213);
+    color: rgb(0, 0, 0);
+}
+
+.header_div p{
+    font-family: 'Raleway', sans-serif;
+    color: darkslategrey;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.main_div button{
+    width: 68px;
+    height: 35px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    background-color: rgb(122, 89, 121);
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    font-size: 25px;
+    width: 100%;
+    background-color: darkseagreen;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 35px color(rgb(59, 19, 46));
+}
